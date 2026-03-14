@@ -66,7 +66,7 @@
             :disabled="adding"
             class="w-full btn-primary text-sm py-1.5"
           >
-            {{ adding ? "Adding..." : "+ Add to Cart" }}
+            {{ adding ? "Adding..." : "+ Add Cart" }}
           </button>
 
           <!-- Buy Now -->
